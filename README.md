@@ -28,24 +28,24 @@
 
 ### My Tech Stack
 
-#### Frontend
+#### Languages & Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,cs,java,php" alt="Languages & Frontend Stack" />
   </a>
 </p>
 
 #### Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mongodb,redis" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" alt="Backend & Databases Stack" />
   </a>
 </p>
 
-#### Tools & Infrastructure
+#### DevOps & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" alt="Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,nginx,cloudflare" alt="DevOps & Infrastructure Stack" />
   </a>
 </p>
 
