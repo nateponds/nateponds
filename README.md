@@ -18,6 +18,7 @@
 ---
 
 ### About Me
+* I am a 2nd-year **BS Computer Science** student at the **University of San Carlos**.
 * I am currently focused on projects involving modern web applications and scalable backend infrastructure.
 * I am actively learning advanced systems design and cutting-edge AI features.
 * I am always open to collaborating on open-source developer tooling and interesting side-projects.
