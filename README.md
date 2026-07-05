@@ -1,36 +1,55 @@
 <div align="center">
-  <h1>Nathaniel Ryan Ponce</h1>
-  <p>Software Engineer specializing in scalable web applications and backend infrastructure.</p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Nathaniel%20Ryan%20Ponce&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50" alt="header" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2088FF&width=435&lines=Building+scalable+web+apps;Architecting+backend+systems;Exploring+AI+integrations" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nathaniel@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br />
-
-### Core Technologies
-
-#### Languages & Frameworks
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
-
-#### Databases & Infrastructure
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-
-<br />
-
-### Current Focus
-
-- **Systems Architecture:** Designing robust backend services with high availability.
-- **Frontend Performance:** Optimizing web vitals in React and Next.js applications.
-- **Open Source:** Exploring and contributing to modern developer tooling.
-
-<br />
+</p>
 
 ---
+
+### About Me
+* I am currently focused on projects involving modern web applications and scalable backend infrastructure.
+* I am actively learning advanced systems design and cutting-edge AI features.
+* I am always open to collaborating on open-source developer tooling and interesting side-projects.
+* Ask me about web technologies, software architecture, or frontend performance optimization.
+
+---
+
+### My Tech Stack
+
+#### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
+  </a>
+</p>
+
+#### Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mongodb,redis" alt="Backend Stack" />
+  </a>
+</p>
+
+#### Tools & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" alt="Tools Stack" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <sub>Profile intentionally designed for minimalism and clarity.</sub>
+  <sub>Profile designed with dynamic animations and clean aesthetics.</sub>
 </div>
