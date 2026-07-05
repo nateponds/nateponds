@@ -51,6 +51,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/nateponds">
+    <img src="https://github-readme-stats-nine-lovat-17.vercel.app/api?username=nateponds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&text_color=ffffff&icon_color=00FFCC&hide_title=false&hide=prs" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nateponds">
+    <img src="https://github-readme-stats-nine-lovat-17.vercel.app/api/top-langs/?username=nateponds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=ffffff" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <sub>Profile designed with dynamic animations and clean aesthetics.</sub>
 </div>
