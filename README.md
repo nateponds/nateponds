@@ -35,7 +35,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,cs,java,php" alt="Languages and frontend stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,cs,java,php" alt="Languages and frontend stack" />
   </a>
 </p>
 
