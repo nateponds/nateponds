@@ -57,6 +57,8 @@
 
 ---
 
+<!-- GitHub Stats currently disabled due to external service downtime -->
+<!-- 
 ### GitHub Stats
 
 <div align="center">
@@ -67,5 +69,6 @@
     <img src="https://github-readme-stats-nine-lovat-17.vercel.app/api/top-langs/?username=nateponds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=ffffff" alt="Top languages" />
   </a>
 </div>
+-->
 
 <hr>
