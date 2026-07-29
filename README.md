@@ -21,11 +21,10 @@
 
 ### About Me
 
-- I am a 2nd-year **BS Computer Science** student at the **University of San Carlos**.
-- I am currently focused on projects involving modern web applications and scalable backend infrastructure.
-- I am actively learning advanced systems design and cutting-edge AI features.
-- I am always open to collaborating on open-source developer tooling and interesting side-projects.
-- Ask me about web technologies, software architecture, or frontend performance optimization.
+- A **BS Computer Science** student at the **University of San Carlos** with a strong interest in self-hosting, Linux systems, and the infrastructure that keeps things running.
+- Runs a homelab and learns through managing real services: configuring servers, working through networking problems, and investigating why something broke instead of only restarting it.
+- Interested in system administration, DevOps, and cybersecurity.
+- Builds experience one setup at a time and keeps notes on what works, what fails, and what could be done differently next time.
 
 ---
 
@@ -57,18 +56,19 @@
 
 ---
 
-<!-- GitHub Stats currently disabled due to external service downtime -->
-<!-- 
-### GitHub Stats
+### GitHub Stats & Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/nateponds">
-    <img src="https://github-readme-stats-nine-lovat-17.vercel.app/api?username=nateponds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&text_color=ffffff&icon_color=00FFCC&hide_title=false&hide=prs" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/nateponds">
-    <img src="https://github-readme-stats-nine-lovat-17.vercel.app/api/top-langs/?username=nateponds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=ffffff" alt="Top languages" />
-  </a>
+  <img src="profile/stats.svg" alt="GitHub Stats" height="175" />
+  <img src="profile/top-langs.svg" alt="Top Languages" height="175" />
 </div>
--->
+
+<br />
+
+<div align="center">
+  <img src="profile/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</div>
 
 <hr>
+
+
