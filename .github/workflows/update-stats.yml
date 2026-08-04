@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&bg_color=0D1117&title_color=2088FF&text_color=ffffff&icon_color=00FFCC&border_color=2088FF"
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&bg_color=0D1117&title_color=2088FF&text_color=ffffff&icon_color=00FFCC&border_color=2088FF"
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate contribution snake animation
         uses: Platane/snk@v3
