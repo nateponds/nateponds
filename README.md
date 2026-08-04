@@ -59,8 +59,8 @@
 ### GitHub Stats & Contribution Activity
 
 <div align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" height="175" />
-  <img src="profile/top-langs.svg" alt="Top Languages" height="175" />
+  <img src="profile/stats.svg" alt="GitHub Stats" width="400" />
+  <img src="profile/top-langs.svg" alt="Top Languages" width="400" />
 </div>
 
 <br />
