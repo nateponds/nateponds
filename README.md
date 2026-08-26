@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Nathaniel Ryan Ponce</h1>
   <p><strong>Software Engineer | Systems Administrator</strong></p>
-  <p><samp>Web applications / backend systems / AI integrations</samp></p>
+  <p><samp>DevOps / Backend systems / AI integrations</samp></p>
 </div>
 
 <p align="center">
