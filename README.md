@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=2088FF&width=435&center=true&lines=Building+scalable+web+apps;Architecting+backend+systems;Exploring+AI+integrations" alt="Building scalable web apps; Architecting backend systems; Exploring AI integrations" />
+  <img src="profile/spongebob-dancing.gif" alt="SpongeBob" width="200" />
 </p>
 
 <p align="center">
