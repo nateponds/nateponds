@@ -51,4 +51,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*
           git diff --staged --quiet || git commit -m "chore: update profile stats and snake animation"
+          git pull --rebase origin main
           git push
